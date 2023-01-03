@@ -1,6 +1,7 @@
 package org.example.test;
 
 public class Test7 {
+    //水仙花和水仙花个数
     public static void main(String[] args) {
         int count=0;
         for (int i = 100; i <=999; i++) {
