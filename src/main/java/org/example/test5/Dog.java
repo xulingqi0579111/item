@@ -1,6 +1,8 @@
 package org.example.test5;
 
 public class Dog extends AnimalParent{
+    final int age=20;
+
     public Dog(){
 
     }
